@@ -54,3 +54,5 @@ sudo systemctl stop control-fan.service
 sudo systemctl daemon-reload
 sudo systemctl status control-fan.service
 ``` 
+
+Thanks
